@@ -8,7 +8,7 @@ namespace Disciplina
 {
     internal class Aluno
     {
-        public string ra;
+        public string RA;
         public string nome;
         public decimal notaprova;
         public decimal notatrabalho;
